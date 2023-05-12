@@ -1,19 +1,17 @@
 ## Microsoft ADC Skills Challenge
 
-CONTOSO SKATE LIBRARY CHALLENGE 
+# **Contoso Skate Library**
 
-Duration: 120 mins 
+**Duration:** 120 mins 
 
-Difficulty level: Beginner 
+**Difficulty level:** Beginner 
 
- 
-Prerequisite: Knowledge of an IDE with the web development workload.  
+**Prerequisite:** Knowledge of an IDE with the web development workload.  
 
-Prerequisite Knowledge: Any Programming Language, Any Web Framework API, Endpoint UI 
+**Prerequisite Knowledge:** Any Programming Language, Any Web Framework API, Endpoint UI 
 
-Thematic Area: Web Development 
+**Thematic Area:** Web Development 
 
- 
  
 
 Contoso Skate has libraries in over 20 states in Nigeria. They already have internal systems they use to manage their bookkeeping and some other internal processes. Contoso Skate is now looking at expanding their coverage by providing APIs for developers to connect with them. 
