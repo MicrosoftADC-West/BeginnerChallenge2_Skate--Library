@@ -1,6 +1,4 @@
-# MSChallenge
- 
-## MICROSOFT ADC CHALLENGE YOUR SKILL
+## Microsoft ADC Skills Challenge
 
 CONTOSO SKATE LIBRARY CHALLENGE 
 
